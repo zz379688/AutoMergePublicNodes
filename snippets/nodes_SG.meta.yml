@@ -1,30 +1,19 @@
 proxies:
-- name: 8|新加坡
-  password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
-  port: 4466
-  server: sg3.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: sg3.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 11,12|新加坡|@ripaojiedian
-  network: tcp
+- name: 11|🇸🇬 新加坡|@ripaojiedian
   password: 6ec301428255a78a1d826988d86cc87e
   port: 45747
   server: 57.183.7.187
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|新加坡2|@ripaojiedian
-  network: tcp
+- name: 11|🇸🇬 新加坡2|@ripaojiedian
   password: 6ec301428255a78a1d826988d86cc87e
   port: 45744
   server: 18.166.178.12
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 11,12|新加坡3|@ripaojiedian
-  network: tcp
+- name: 11|🇸🇬 新加坡3|@ripaojiedian
   password: BxceQaOe
   port: 41421
   server: 95.40.53.193
